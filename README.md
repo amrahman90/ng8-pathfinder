@@ -1,6 +1,6 @@
 # Angular Pathfinding Algorithms Visualizer Tool
 
-see it live here: [Heroku Demo](https://ng8-pathfinder.netlify.app)
+see it live here: [Netlify Demo](https://ng8-pathfinder.netlify.app)
 
 Generates an interactive visualization of the algorithm.
 
